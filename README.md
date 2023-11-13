@@ -1,2 +1,2 @@
-# uw-madison-gi-tract
+# UW-Madison GI Tract Image Segmentation
 Track healthy organs in medical scans to improve cancer treatment
